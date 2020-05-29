@@ -52,7 +52,7 @@ Here is the schema and explanation of each variable in the files:
 ## Requirements
 * Python 3.5+
 * Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
-* Data Visualization Libraries: Matplotlib, Seaborn, Folium
+* Data Visualization Libraries: Matplotlib, Seaborn
 * Json to read the json files
 
 <a name="materials"></a>
