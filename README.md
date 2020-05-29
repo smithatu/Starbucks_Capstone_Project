@@ -42,5 +42,5 @@ Transcript- This data set provides information on offer received, offer viewed, 
 <a name="details"></a>
 ## Additional Details
 
-1.Blog post : The blog post in Medium can be found  here 
+1.Blog post : The blog post in Medium can be found  here https://medium.com/@smithathalur/measuring-marketing-campaign-effectiveness-using-starbucks-reward-mobile-app-data-5456c8e5ad45
 
